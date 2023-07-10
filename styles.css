@@ -4,5 +4,7 @@ p {
     color(black red green blue);
     padding: 2px;
     margin: 1rem;
+    color: blue;
+    
     
 }
