@@ -1,5 +1,8 @@
 /* styles */
 p {
-    color: red
-    color(black red green blue)
+    color: red;
+    color(black red green blue);
+    padding: 2px;
+    margin: 1rem;
+    
 }
